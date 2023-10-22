@@ -1,0 +1,2 @@
+# CPE232_HOA6
+CPE232 - CPE31S4 Hand-on Activity 6
